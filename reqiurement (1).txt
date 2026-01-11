@@ -1,0 +1,8 @@
+gradio
+transformers
+sentence-transformers
+torch
+spacy
+pdfplumber
+python-docx
+scikit-learn
